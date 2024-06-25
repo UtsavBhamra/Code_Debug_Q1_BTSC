@@ -1,0 +1,22 @@
+<% if friend.user == current_user %>
+  <div class="friend-card" id="<%= dom_id friend %>">
+    <div class="friend-card-content">
+      <p>
+        <strong>Name:</strong>
+        <%= link_to friend.First_name + ' ' + friend.Last_name, friend %>
+      </p>
+      <p>
+        <strong>Email:</strong>
+        <%= friend.Email %>
+      </p>
+      <p>
+        <strong>Twitter:</strong>
+        <%= friend.Twitter %>
+      </p>
+      <p>
+        <strong>Phone:</strong>
+        <%= friend.Phone %>
+      </p>
+    </div>
+  </div>
+<% end %>

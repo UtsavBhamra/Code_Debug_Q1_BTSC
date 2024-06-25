@@ -1,0 +1,18 @@
+<p style="color: green"><%= notice %></p>
+<% if user_signed_in? %>
+<h1>Friend List</h1>
+
+<div id="friends">
+  <% @friends.each do |friend| %>
+    <%= render friend %>
+    
+    
+  <% end %>
+</div>
+
+<%= link_to "New friend", new_friend_path, class: "btn btn-secondary"%>
+<% else %>
+<h1> BUDDY PAGE </h1>
+
+<img src="https://michiganross.umich.edu/sites/default/files/images/news-story/connection2.jpg">
+<% end %>
