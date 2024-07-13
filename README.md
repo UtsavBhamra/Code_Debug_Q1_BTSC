@@ -48,6 +48,7 @@ Follow these steps to set up the project locally:
    rails s
 7. open the web app
 
+Ensure you are using the right ruby version.
 
 ## Features
 * This is a basic buddy app designed to store and retrieve user friends.
