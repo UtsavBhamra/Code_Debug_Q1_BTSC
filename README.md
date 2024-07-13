@@ -1,5 +1,7 @@
 # IE CODE DEBUG 
 
+# MAX POINTS: 50
+
 ## Table of Contents
 - [Installation](#installation)
 - [Features](#features)
