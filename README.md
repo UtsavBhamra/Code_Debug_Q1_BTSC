@@ -21,15 +21,19 @@
    Run the following command to install Rails:
    ```bash
    gem install rails
+   
 6. Install Dependencies
    Run the following command to install the required gems using Bundler:
    ```bash
    bundle install
+   
 7. Ensure you are using the right ruby version.
+   
 8. Run the Server
    Start the Rails server by running:
    ```bash
    rails s
+   
 9. Open the Web App
    The Rails server typically runs on port 3000.
    In the Codespace, click on the "Ports" tab to find the forwarded port (usually port 3000).
@@ -51,25 +55,28 @@ Follow these steps to set up the project locally:
      
 4. **Install Rails Gem**:  
    Open Command Prompt and run the following command to install Rails::
-   ```bash
-   gem install rails
+      ```bash
+      gem install rails
    
 5. Clone the forked repository
 
 6. Navigate to the cloned repository directory.
 
-7. **Install Bundler and Dependencies**
+7. **Install Bundler and Dependencies**:
    Install Bundler if it is not already installed:
-   ```bash
-   gem install bundler
-   Install the required gems using Bundler:
-   ```bash
-   bundle install
-   Ensure you are using the right ruby version.
-8. **Run the Rails Server**
-   Start the Rails server by running:
-   rails s
-9. **Open the Web App**
+      ```bash
+      gem install bundler
+   
+8. Install the required gems using Bundler:
+      ```bash
+      bundle install
+   
+9. Ensure you are using the right ruby version.
+10. **Run the Rails Server**
+      
+      ```bash
+      rails s
+11. **Open the Web App**: 
     Open your web browser and navigate to http://localhost:3000/ to view the website.
 
 ## Features
