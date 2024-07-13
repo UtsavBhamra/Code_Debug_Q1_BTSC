@@ -98,7 +98,7 @@ Follow these steps to set up the project locally:
 ## Important: 
 * Fork the repository and update your edits in your forked copy.
 * Ensure that you commit your changes before the deadline, otherwise it wont be considered.
-* Before submitting, check whether all your commits have been updated 
+* Before submitting, check whether all your commits have been updated.
 
 
 
