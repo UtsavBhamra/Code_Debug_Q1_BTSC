@@ -1,4 +1,4 @@
-# IE CODE DEBUG 
+# IE CODE DEBUG: Question 1 
 
 # MAX POINTS: 50
 
@@ -8,7 +8,6 @@
 - [Bugs](#bugs)
 - [References](#references)
 - [Important](#important)
-
 
 ## Installation
 
@@ -96,7 +95,7 @@ Follow these steps to set up the project locally:
 * https://rubygems.org/
 
 ## Important: 
-* Fork the repository and update your edits in your forked copy.
+* Create a fork of the repository with the format: <Team Name_Code_Debug_Q1_BTSC>. 
 * Ensure that you commit your changes before the deadline, otherwise it wont be considered.
 * Before submitting, check whether all your commits have been updated.
 
