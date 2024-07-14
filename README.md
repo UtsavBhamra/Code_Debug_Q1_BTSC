@@ -99,6 +99,7 @@ Follow these steps to set up the project locally:
 * Ensure that you commit your changes before the deadline, otherwise it will not be considered.
 * Before submitting, check whether all your commits have been updated.
 
+# ALL THE BEST👍
 
 
 
